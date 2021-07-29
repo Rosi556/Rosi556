@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/rosicleite-monteiro-b94b2932/" target="_blank">
   <img align="center" alt="junior-linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
 </a>
-<a href="https://www.instagram.com/_juniorcintra/" target="_blank">
+<a href="https://www.instagram.com/rosicleitemonteiro/" target="_blank">
   <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5524981584658&text=Ol%C3%A1.%20venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
