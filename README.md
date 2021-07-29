@@ -12,3 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosi556&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosi556&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+ #My Skills
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" widtf="40" height="30" style="max-width:100%;margin: 0 2px;></img>
