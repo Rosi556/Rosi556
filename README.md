@@ -7,4 +7,8 @@
 - 💡 Estudante de Análise e Desenvolvimento de Sistema da Faculdade SENAC em Pernambuco.
 - ☺ Pronomes:ela/dela
 
-##### Linguagens e ferramentas:
+ <div>
+  <a href="https://github.com/Rosi556">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosi556&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosi556&layout=compact&langs_count=7&theme=dracula"/>
+</div>
