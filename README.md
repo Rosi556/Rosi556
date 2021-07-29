@@ -5,6 +5,7 @@
 - 👩🏽Sou Supervisora Logística pela Magazine Luiza ,
 - 👩🏽‍💻 Em busca de uma transição de carreira para área de tecnologia.
 - 💡 Estudante de Análise e Desenvolvimento de Sistema da Faculdade SENAC em Pernambuco.
+- 🌱 Atualmente estou aprendendo Spring Boot.
 - ☺ Pronomes:ela/dela
 
 ### ✔Se quiser interagir comigo, entre em contato no Linkedin, Instagram, WhatsApp ou por E-mail abaixo.
