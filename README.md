@@ -22,7 +22,10 @@
 <a href="mailto:info@example.com?&subject=&cc=&bcc=&body=rosicleite-silva@hotmail.com%0AOl%C3%A1%20eu%20vim%20do%20seu%20GitHub" target="_blank" >
   <img  align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width='200' style="max-width:100%;"/> 
 </a>
-
+</div>
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rosi-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div>
 
 
  
@@ -42,6 +45,5 @@
 </div>
 
  <hr />
-
 
 
